@@ -1,0 +1,26 @@
+body {
+   background-size:cover;
+  background-image:url("https://scontent-frx5-1.cdninstagram.com/vp/4fa6b12f9f3f81edea9dd56bb1efdbcb/5CCDAE23/t51.2885-15/e35/50058434_983724968487747_1636643609673332721_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&ig_cache_key=MTk2MDU4Njc5MzI3NTc2Nzg2OA%3D%3D.2");
+
+}
+
+h3 {
+  font-size: em;
+  font-family: 'arial', serif;
+  font-family: 'VT323', monospace;
+
+}
+
+nav a {
+font-family: 'VT323', monospace;
+}
+
+p {
+  border:2px light gray;
+
+}
+
+
+li {
+  padding: 20px 20px 20px 20px;
+}
